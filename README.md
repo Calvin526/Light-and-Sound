@@ -4,8 +4,6 @@ Submitted by: Calvin Garcia
 
 Time spent: 10 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/light-sound-prework
-
 ## Video Walkthrough (GIF)
 
 [Game Completion](https://user-images.githubusercontent.com/102778686/161361933-8144f413-d6dd-4091-86dc-e6b54000d2f8.gif)
